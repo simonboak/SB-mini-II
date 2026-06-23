@@ -1,5 +1,9 @@
-# SB-mini-II
+<img width="300" height="78" alt="SB mini II Logo" src="https://github.com/user-attachments/assets/5717115e-1413-4fea-a0ca-f90cbcbf2966" />
+
+# SB mini II
 A homebrewed Apple II clone
+
+
 
 ## Hardware Overview
 
@@ -18,6 +22,8 @@ A homebrewed Apple II clone
   - There is no cassette input or output.
 - These are the Revision 1 files. Rev 0 was a smaller board with no 5V regulation, only 7 slots and 32k on board RAM. The plan had been to leave out slot 0 and work out how to make full use of a second 32k RAM chip to have the full 64k without needing a language card, however this almost doubled the amount of circuitry needed.
 
+<img width="1721" height="957" alt="SB mini II Board Render" src="https://github.com/user-attachments/assets/0ef79e76-ef25-4c28-ad38-092ab4bc8afa" />
+
 ## 3D Printed Case
 
 Combining the design of the Apple II with the ProFile hard disk, the case requires a bit of assembly:
@@ -28,3 +34,7 @@ Combining the design of the Apple II with the ProFile hard disk, the case requir
 4. For the light pipe it was filled with hot glue to create a diffused lense with the LED glued in behind.
 5. The base requires 8x M3 threaded inserts, 2 of which are for the back panel, the rest are the PCB mounts.
 6. The 20mm speaker can be taped into the round hole in the base.
+
+<img width="1069" height="705" alt="Assembled" src="https://github.com/user-attachments/assets/9e6c32e9-8a1c-454f-ad78-9305dd7459ce" />
+<img width="1077" height="857" alt="Exploded View" src="https://github.com/user-attachments/assets/bc1e7653-411b-43e0-a30f-eaf4b8079941" />
+
