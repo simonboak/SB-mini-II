@@ -1,0 +1,45 @@
+Reference,Value,Qty
+A1,Raspberry Pi Pico 1,1
+"C1,C6,C7,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24,C25,C26,C27,C28,C29",0.1µF,24
+"C2,C3,C4,C5",22nF,4
+C8,470µF,1
+D1,1N914,1
+D2,1N5240B,1
+D3,3 or 5mm power indicator LED,1
+J1,GAME I/O: DIP-16 socket,1
+J2,Pico Debug: 3 pin header,1
+J3,PCB Barrel Jack,1
+J4,Terminal block for power switch,1
+J5,Pololu 5V 1A Step-Down Voltage Regulator (D24V10F5),1
+J6,Apple II Power Connector,1
+JP1,HI ROM selector: 2 pin header,1
+JP2,SHIFT KEY MOD: 2 pin header,1
+LS1,Speaker 20mm 0.5W,1
+Q1,MPSA13,1
+Q2,PN2222A,1
+Q3,IRF5305,1
+"R1,R2,R3,R4,R5,R12",3k3,6
+"R6,R16,R17",1k,3
+R7,2k5,1
+"R8,R9,R10,R11",100,4
+R13,10K,1
+R14,47k,1
+R15,27,1
+R18,100k,1
+R19,330,1
+"Slot1,Slot2,Slot3,Slot4,Slot5,Slot6,Slot7,Slot8",50 pin card edge connector,8
+SW1,RESET: MJTP/PHAP33 tactile switch ,1
+"U1,U13",74HC74,2
+U2,65C02,1
+U3,74HC08,1
+"U4,U5,U6",74HC138,3
+U7,74HC259,1
+"U8,U9",NE556,2
+U10,74HC30,1
+U11,74HCT138,1
+"U12,U17",74HC00,2
+U14,74HC251,1
+U15,28C256 32k x 8 EEPROM,1
+"U16,U18",CY62256 32k x 8 SRAM,2
+U19,74HC244,1
+Y1,4MHz square can crystal oscillator,1

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Apple II Project")(type "KiCad")(uri "${KIPRJMOD}/SB mini II.pretty")(options "")(descr ""))
+)
