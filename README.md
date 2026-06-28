@@ -3,7 +3,7 @@
 # SB mini II
 A homebrewed Apple II clone
 
-
+<img width="2048" height="1569" alt="SB mini II cutaway" src="https://github.com/user-attachments/assets/6a803878-52c7-4819-acd0-ed06dd672cae" />
 
 ## Hardware Overview
 
