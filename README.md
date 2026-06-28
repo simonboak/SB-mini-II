@@ -1,7 +1,7 @@
-<img width="300" height="78" alt="SB mini II Logo" src="https://github.com/user-attachments/assets/5717115e-1413-4fea-a0ca-f90cbcbf2966" />
-
 # SB mini II
-A homebrewed Apple II clone
+A homebrewed Apple II clone. [Read more on the blog post](https://unimplementedtrap.com/sb-mini-ii-apple-ii-clone/)
+
+<img width="300" height="78" alt="SB mini II Logo" src="https://github.com/user-attachments/assets/5717115e-1413-4fea-a0ca-f90cbcbf2966" />
 
 <img width="2048" height="1569" alt="SB mini II cutaway" src="https://github.com/user-attachments/assets/6a803878-52c7-4819-acd0-ed06dd672cae" />
 
