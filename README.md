@@ -8,8 +8,8 @@ A homebrewed Apple II clone. [Read more on the blog post](https://unimplementedt
 ## Hardware Overview
 
 - The CPU is a standard 65C02 running at near 1.024 MHz (the original Apple II ran at 1.023 for the 60 Hz models), after dividing the 4.096 MHz crystal by 4.
-- The 12kB ROM image is placed on the 32k EEPROM. Becuase there's spare room on this chip a jumper allows for selecting the high or low half of the ROM chip, so I've placed Ardian Black's [Deadtest](https://github.com/misterblack1/appleII_deadtest) program in there.
-- 48kB of RAM is accomplised by using one and half 32kB SRAM chips. Figured this was easier to use matching chipd than it was to use a 32kb + 16kB chip.
+- The 12kB ROM image is placed on the 32k EEPROM. Because there's spare room on this chip a jumper allows for selecting the high or low half of the ROM chip, so I've placed Ardian Black's [Deadtest](https://github.com/misterblack1/appleII_deadtest) program in there.
+- 48kB of RAM is accomplished by using one and half 32kB SRAM chips. Figured this was easier to use matching chipd than it was to use a 32kb + 16kB chip.
 - Address decoding works exactly like the real Apple II. This was mostly based on the schematics in _Understanding The Apple II_ by Jim Sather.
 - In Addition to the I/O slots, this has:
   - Speaker: matching the genuine Apple II
