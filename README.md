@@ -38,3 +38,11 @@ Combining the design of the Apple II with the ProFile hard disk, the case requir
 <img width="1069" height="705" alt="Assembled" src="https://github.com/user-attachments/assets/9e6c32e9-8a1c-454f-ad78-9305dd7459ce" />
 <img width="1077" height="857" alt="Exploded View" src="https://github.com/user-attachments/assets/bc1e7653-411b-43e0-a30f-eaf4b8079941" />
 
+### Rear with reset switch
+
+An alernative file for the rear panel of the case is included. This contains a 7mm hole for a suitably sized push button switch.
+
+### Rev 1 Update:
+
+Alternative files are provided for the lid: this greatly reduces the radius of the curve on the front of the case. This should print better and without requiring so much filling and sanding, although it does depart from the styling inspiration of the ProFile hard disk.
+
