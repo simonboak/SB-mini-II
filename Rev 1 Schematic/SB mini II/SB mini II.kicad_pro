@@ -508,7 +508,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "EXPORT/01/",
+      "plot": "../Gerbers",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../Case/Assets/Apple II Project.step",
